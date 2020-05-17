@@ -1,0 +1,10 @@
+en:
+  js:
+    in_category: "в {{basicCategoryLink}}"
+
+    news:
+      sidebar_topics_title: "Последни"
+
+    filters:
+      news:
+        title: "Новини"
